@@ -6,7 +6,7 @@
 ##### Read in data #####
 
 ## Dataframe with angler success (fish catch per angler, per day)
-dat0 <- read.csv('C:/Users/jmuehlbauer/Desktop/AnglerSuccess.csv')
+dat0 <- read.csv('https://raw.githubusercontent.com/jmuehlbauer-usgs/AnglerSuccess/master/AnglerSuccess.csv')
 	## Note: Dataframe contains only "true" anglers. Removes the lavage crew that fished only sparingly, etc.
 
 
