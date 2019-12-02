@@ -1,4 +1,4 @@
-# BrightAngel
+# AnglerSuccess
 Data, code, and analyses for Lees Ferry angler success project assessing whether anglers catch more fish on weekends than weekdays durin gthe Bug Flows experiment.
 
 __Disclaimer:__  
